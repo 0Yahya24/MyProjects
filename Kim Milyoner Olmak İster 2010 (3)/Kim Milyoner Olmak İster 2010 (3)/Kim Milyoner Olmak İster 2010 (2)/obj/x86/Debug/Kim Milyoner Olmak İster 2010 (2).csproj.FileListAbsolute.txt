@@ -1,0 +1,115 @@
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form1.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Properties.Resources.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csproj.GenerateResource.Cache
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csprojResolveAssemblyReference.cache
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form2.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form3.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form4.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form5.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csprojResolveAssemblyReference.cache
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form1.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form2.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form3.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form4.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form5.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Properties.Resources.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csproj.GenerateResource.Cache
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form6.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form7.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form8.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form9.resources
+D:\Yahya Emin Sevinç\C# Kim Milyoner (Deneme)\Kim Milyoner Olmak İster 2010 (2)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form10.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csprojResolveAssemblyReference.cache
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form1.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form2.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form3.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form4.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form5.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form6.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form7.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form8.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form9.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form10.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Properties.Resources.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Yeni klasör\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csproj.GenerateResource.Cache
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csprojResolveAssemblyReference.cache
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form1.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form2.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form3.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form4.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form5.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form6.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form7.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form8.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form9.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form10.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Properties.Resources.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csproj.GenerateResource.Cache
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form11111.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Resources.Form12.resources
+C:\Users\sevinç\OneDrive\Masaüstü\C# Uygulamalar 2010\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form112.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csprojResolveAssemblyReference.cache
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form1.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form11111.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form112.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form2.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form3.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form4.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form5.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form6.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form7.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form8.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form10.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Properties.Resources.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Resources.Form12.resources
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csproj.GenerateResource.Cache
+C:\Users\sevinç\OneDrive\Masaüstü\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form9.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).exe
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\bin\Debug\Kim Milyoner Olmak İster 2010 (2).pdb
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csprojResolveAssemblyReference.cache
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form1.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form100.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form11111.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form112.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form2.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form3.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form4.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form5.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form6.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form7.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form8.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form9.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form10.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Properties.Resources.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Resources.Form12.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim Milyoner Olmak İster 2010 (2).csproj.GenerateResource.Cache
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form110.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form101.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form102.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form103.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form113.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form104.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form114.resources
+C:\Users\sevinç\Desktop\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (3)\Kim Milyoner Olmak İster 2010 (2)\obj\x86\Debug\Kim_Milyoner_Olmak_İster_2010__2_.Form115.resources

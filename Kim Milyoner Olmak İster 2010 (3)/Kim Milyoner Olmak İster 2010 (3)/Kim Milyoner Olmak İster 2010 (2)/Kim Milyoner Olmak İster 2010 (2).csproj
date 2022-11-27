@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BA521426-94AE-47B6-B1B0-47138C803A11}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kim_Milyoner_Olmak_İster_2010__2_</RootNamespace>
+    <AssemblyName>Kim Milyoner Olmak İster 2010 %282%29</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>who.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1joker.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form100.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form100.Designer.cs">
+      <DependentUpon>Form100.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form101.Designer.cs">
+      <DependentUpon>Form101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form102.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form102.Designer.cs">
+      <DependentUpon>Form102.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form103.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form103.Designer.cs">
+      <DependentUpon>Form103.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form104.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form104.Designer.cs">
+      <DependentUpon>Form104.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form110.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form110.Designer.cs">
+      <DependentUpon>Form110.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form11111.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11111.Designer.cs">
+      <DependentUpon>Form11111.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form112.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form112.Designer.cs">
+      <DependentUpon>Form112.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form113.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form113.Designer.cs">
+      <DependentUpon>Form113.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form114.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form114.Designer.cs">
+      <DependentUpon>Form114.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form115.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form115.Designer.cs">
+      <DependentUpon>Form115.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.cs">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.cs">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formgiris.Designer.cs">
+      <DependentUpon>Formgiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\Formbir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Formbir.Designer.cs">
+      <DependentUpon>Formbir.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form100.resx">
+      <DependentUpon>Form100.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form101.resx">
+      <DependentUpon>Form101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form102.resx">
+      <DependentUpon>Form102.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form103.resx">
+      <DependentUpon>Form103.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form104.resx">
+      <DependentUpon>Form104.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form110.resx">
+      <DependentUpon>Form110.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11111.resx">
+      <DependentUpon>Form11111.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form112.resx">
+      <DependentUpon>Form112.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form113.resx">
+      <DependentUpon>Form113.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form114.resx">
+      <DependentUpon>Form114.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form115.resx">
+      <DependentUpon>Form115.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formgiris.resx">
+      <DependentUpon>Formgiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resources\Formbir.resx">
+      <DependentUpon>Formbir.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ekran Alıntısı.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ekran Alıntısı22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.png" />
+    <None Include="Resources\button %281%29.png" />
+    <None Include="Resources\button %282%29.png" />
+    <None Include="Resources\button %283%29.png" />
+    <None Include="Resources\photo-1553095066-5014bc7b7f2d.jpg" />
+    <None Include="Resources\button__3_-removebg-preview.png" />
+    <None Include="Resources\WhatsApp Image 2022-11-18 at 20.24.40.jpeg" />
+    <None Include="Resources\generatedtext.png" />
+    <None Include="Resources\shaking-hands-handshake-hands-welcome.jpg" />
+    <Content Include="unnamed.ico" />
+    <Content Include="who.ico" />
+    <None Include="Resources\dev3clm-d43bd914-0f20-4874-8295-71adee5b61dd.png" />
+    <None Include="Resources\3zsr6d.jpg" />
+    <Content Include="Resources\Dogru-Cevap-Ses-Efekti.wav" />
+    <Content Include="Resources\Who-Wants-To-Be-A-Millionaire-Ask-The-Audience-Lifeline-Theme-[AudioTrimmer.com].wav" />
+    <Content Include="Resources\Yanlış-cevap-sesi-_dıııt_-Ses-Efekti.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
